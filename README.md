@@ -1,5 +1,5 @@
-# Neural-style-transfer
+# Neural style transfer
 Neural style transfer leveraging Tensorflow Hub
 
-Results:
+Result:
 ![Image](zorina_process.png?raw=true)
